@@ -1,26 +1,28 @@
 # MINI-PROJECT-GROUP-3
-# Project Title
+# SIGN BOARD DETECTION
+Sign Board detection is an application that is developing in Android.It’s an app
+which we develop for gaving an alert to drivers while driving a vechile.Before
+starting the journey by using this application we can know the path between the
+source and destination where we wants to travel and also we know how many
+left and right turns are there in the path ,also which gaves the information from
+where we have take turn while travelling.
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+We have to install Google Play Services before we get started working with the google map
+Get the API key for getting google map services like Google Map directions,Google Map Routing,Google Map Geolocations
 
-```
-Give examples
-```
+Step 1: Get an API Key from the Google API Console
+GET A KEY
+Step 2: Add the API key to your application
 
-### Installing
+### Basic Requirements
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
+Android Studio version 2.3.3
+Gradle  3.1 Above
+Minimum API:API 17(JellyBean)
+Maximum API:API 21(Marshmallow)
 ```
 Give the example
 ```
@@ -86,3 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
+
