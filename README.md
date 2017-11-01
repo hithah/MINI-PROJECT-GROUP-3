@@ -49,14 +49,10 @@ TOKENIZING THE TEXT AND GAVE VOICE ALERT
 
 ### Dataset Used
 
-In the case of android for embedding an Googlemap we use Google Maps APIs which is the collection of services that allow you to include maps, geocoding, places, and other content from Google in your applications. By the use of any of the Google Maps APIs is subject to the terms of a legal agreement between you and Google. In order to access the Service, you must have and maintain a Google Account in good standing. You must ensure that any information you give to Google in connection with your Google Account or the Service will always be accurate, correct, and up to date. If there is any contradiction between the Maps APIs Terms and other Maps APIs related documents,then the Maps APIs Terms will take precedence. In the case of last task for classifying we use python to perform classiﬁcation based on the turnings. for that we download datasets for traﬃc signboards to implement SVM classiﬁcation with the relevant datasets of diﬀerent traﬃc signboards.
-
-```
-Give an example
-```
+In the case of android for embedding an Googlemap we use Google Maps APIs which is the collection of services that allow you to include maps, geocoding, places, and other content from Google in your applications. By the use of any of the Google Maps APIs is subject to the terms of a legal agreement between you and Google. In order to access the Service, you must have and maintain a Google Account in good standing. You must ensure that any information you give to Google in connection with your Google Account or the Service will always be accurate, correct, and up to date. If there is any contradiction between the Maps APIs Terms and other Maps APIs related documents,then the Maps APIs Terms will take precedence.
+We downloaded images for gaving alert whether the turn is sharp or normal turns.
 
 
-```
 
 ## References
 https://developers.google.com/maps/documentation/android-api/map-with-marker
