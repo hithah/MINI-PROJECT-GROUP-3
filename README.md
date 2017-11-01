@@ -14,20 +14,37 @@ We have to install Google Play Services before we get started working with the g
 Get the API key for getting google map services like Google Map directions,Google Map Routing,Google Map Geolocations
 
 Step 1: Get an API Key from the Google API Console
+
+
+
 GET A KEY
+
+
 Step 2: Add the API key to your application
 
 ### Basic Requirements
 
 Android Studio version 2.3.3
+
+
 Gradle  3.1 Above
+
+
 Minimum API:API 17(JellyBean)
+
+
 Maximum API:API 21(Marshmallow)
 
 ## Tasks
 DISPLAYING A MAP
+
+
 DRAW ROUTE BETWEEN SOURCE AND DESTINATION
+
+
 DISPLAY THE DIRECTIONS FROM SOURCE TO DESTINATION
+
+
 TOKENIZING THE TEXT AND GAVE VOICE ALERT
 
 ### Dataset Used
