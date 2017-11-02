@@ -62,7 +62,7 @@ https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector- machine
 https://developers.google.com/maps/terms
 https://www.thecrazyprogrammer.com/2017/08/convert-website-android-app.html
 http://www.codebind.com/android-tutorials-and-examples/convert-website-android-application-using-android-studio/
-
+https://www.javatpoint.com/android-texttospeech-tutorial
 
 
 
