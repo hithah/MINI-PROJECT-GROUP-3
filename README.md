@@ -4,7 +4,7 @@ Sign Board detection is an application that is developing in Android.It’s an a
 which we develop for gaving an alert to drivers while driving a vechile.Before
 starting the journey by using this application we can know the path between the
 source and destination where we wants to travel and also we know how many
-left and right turns are there in the path ,also which gaves the information from
+left and right turns are there in the path ,also which gives the information from
 where we have take turn while travelling.
 
 
@@ -60,7 +60,8 @@ https://developers.google.com/maps/documentation/android-api/signup
 https://github.com/codepath/android-google-maps-demo 
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector- machineexample-code/ http://www.cvl.isy.liu.se/research/datasets/traﬃc-signs-dataset/download
 https://developers.google.com/maps/terms
-
+https://www.thecrazyprogrammer.com/2017/08/convert-website-android-app.html
+http://www.codebind.com/android-tutorials-and-examples/convert-website-android-application-using-android-studio/
 
 
 
