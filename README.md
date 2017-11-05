@@ -49,8 +49,7 @@ TOKENIZING THE TEXT AND GAVE VOICE ALERT
 
 ### Dataset Used
 
-In the case of android for embedding an Googlemap we use Google Maps APIs which is the collection of services that allow you to include maps, geocoding, places, and other content from Google in your applications. By the use of any of the Google Maps APIs is subject to the terms of a legal agreement between you and Google. In order to access the Service, you must have and maintain a Google Account in good standing. You must ensure that any information you give to Google in connection with your Google Account or the Service will always be accurate, correct, and up to date. If there is any contradiction between the Maps APIs Terms and other Maps APIs related documents,then the Maps APIs Terms will take precedence.
-We downloaded images for gaving alert whether the turn is sharp or normal turns.
+In the case of android for embedding an Googlemap we use Google Maps APIs which is the collection of services that allow you to include maps, geocoding, places, and other content from Google in your applications. By the use of any of the Google Maps APIs is subject to the terms of a legal agreement between you and Google. In order to access the Service, you must have and maintain a Google Account in good standing. You must ensure that any information you give to Google in connection with your Google Account or the Service will always be accurate, correct, and up to date. If there is any contradiction between the Maps APIs Terms and other Maps APIs related documents,then the Maps APIs Terms will take precedence.We downloaded images for gaving alert whether the turn is sharp or normal turns.
 
 
 
@@ -63,7 +62,7 @@ https://developers.google.com/maps/terms
 https://www.thecrazyprogrammer.com/2017/08/convert-website-android-app.html
 http://www.codebind.com/android-tutorials-and-examples/convert-website-android-application-using-android-studio/
 https://www.javatpoint.com/android-texttospeech-tutorial
-
+https://developer.android.com/reference/java/util/StringTokenizer.html
 
 
 
