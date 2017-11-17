@@ -1,7 +1,7 @@
 # MINI-PROJECT-GROUP-3
-# SIGN BOARD DETECTION
-Sign Board detection is an application that is developing in Android.It’s an app
-which we develop for gaving an alert to drivers while driving a vechile.Before
+# Traffic monitoring sysytem
+Traffic monitoring sysytem is an application that is developing in Android.It’s an app
+which we develop for gaving an alert to drivers while driving a vehicle.Before
 starting the journey by using this application we can know the path between the
 source and destination where we wants to travel and also we know how many
 left and right turns are there in the path ,also which gives the information from
